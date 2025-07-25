@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Simple Interest Calculator
-# This script calculates simple interest based on user input
-
 echo "=== Simple Interest Calculator ==="
 echo
 
